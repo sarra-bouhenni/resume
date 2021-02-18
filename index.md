@@ -43,7 +43,7 @@ June 2019 and January 2021
 August 2017 - December 2017
 :  **Data Science Consultant @ Ya Technologies (Algiers)**
 
-   Worked on improving the logging system of the VTC application Yassir. My responsitibilies included mainly: 
+   I worked on improving the logging system of the VTC application Yassir. My responsitibilies included mainly: 
    * Extracting log events available at a Kafka server using a logger implemented within NodeJs. 
    * The logger is responsible of transforming the events and sending them to an Elasticsearch server.
    * I have also worked on different visualizations and reporting of the data available on Elasticsearch using Kibana.
