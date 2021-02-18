@@ -1,5 +1,6 @@
+# Resume
 
-# Education
+## Education
 
 2018-2021 (expected)
 :   **PhD, Computer Science**; Ecole Supérieure d'Informique (Algiers) and Université Claude Bernard (Lyon)
@@ -15,14 +16,14 @@
 2009-2012
 :   **Baccalaureate, Mathematics**; Omar Ibn El Khattab High School (Relizane)
 
-# Trainings
+## Trainings
 
 **Functional Programming in Scala Specialization**; by Coursera [(Credential)](https://www.coursera.org/account/accomplishments/specialization/certificate/J5NVMSFADNYF)
 
 **Big Data Foundations**; by IBM [(Credential)](https://www.youracclaim.com/badges/5e7d8d0b-f80e-4e70-a236-6d6e6f645023)
 
 
-# Experience
+## Experience
 
 January 2018 -- present
 :  **PhD Candidate** -- CERIST Research Center (Algiers) and LIRIS CNRS (Lyon)
@@ -64,7 +65,7 @@ September 2015 - October 2015
    * The design and developement of the platform ui on top of Jomla.
    * Preparation and integration of the different math quizzes to the platform.
 
-# Technical Experience
+## Technical Experience
 
 Programming Languages
 
@@ -80,7 +81,7 @@ Big data plateforms
 
 :   **Elastic Stack** I have worked with the different components of the Elastic stack including Logstash, Elasticsearch and Kibana during 6 months as a data science consultant. 
 
-# Spoken languages
+## Spoken languages
 
 * Arabic (native speaker)
 * French
