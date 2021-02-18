@@ -1,11 +1,3 @@
-theme: minima
+theme: jekyll-theme-cayman
 title: "Sarra BOUHENNI"
 description: "PhD candidate interested in Graphs and Big Data."
-author:
-  name: Sarra BOUHENNI
-  email: "sarra.bouhenni@liris.cnrs.fr"
-minima:
-  social_links:
-    twitter: SarraBouhenni
-    github: sarra-bouhenni
-    stackoverflow: "3980759"
