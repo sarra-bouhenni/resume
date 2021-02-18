@@ -1,8 +1,5 @@
-Sarra BOUHENNI
-============
-
 Education
----------
+============
 
 2018-2021 (expected)
 :   **PhD, Computer Science**; Ecole Supérieure d'Informique (Algiers) and Université Claude Bernard (Lyon)
@@ -19,7 +16,7 @@ Education
 :   **Baccalaureate, Mathematics**; Omar Ibn El Khattab High School (Relizane)
 
 Trainings
---------------------
+============
 
 November 2020 
 : **Functional Programming in Scala Specialization**; Coursera [(Credential)](https://www.coursera.org/account/accomplishments/specialization/certificate/J5NVMSFADNYF)
@@ -28,7 +25,7 @@ April 2018
 :   **Big Data Foundations**; IBM [(Credential)](https://www.youracclaim.com/badges/5e7d8d0b-f80e-4e70-a236-6d6e6f645023)
 
 Experience
-----------
+============
 
 **Graduate Teaching Assistant  -  CERIST Research Center (Algiers) - June 2019 and January 2021**
 
@@ -62,7 +59,7 @@ In this internship, I worked on the development of an e-learning platform for te
 * Preparation and integration of the different math quizzes to the platform.
 
 Technical Experience
---------------------
+============
 
 Programming Languages
 
@@ -79,7 +76,7 @@ Big data plateforms
 :   **Elastic Stack** I have worked with the different components of the Elastic stack including Logstash, Elasticsearch and Kibana during 6 months as a data science consultant. 
 
 Spoken languages
-----------------------------------------
+============
 
 * Arabic (native speaker)
 * French
