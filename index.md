@@ -1,19 +1,13 @@
 Sarra BOUHENNI
 ============
 
--------------------     ----------------------------
-Liris CNRS                        sarra.bouhenni@liris.cnrs.fr
-Villeurbanne 69100                @SarraBouhenni
-France                           
--------------------     ----------------------------
-
 Education
 ---------
 
 2018-2021 (expected)
 :   **PhD, Computer Science**; Ecole Supérieure d'Informique (Algiers) and Université Claude Bernard (Lyon)
 
-    *Thesis title: Parallel and Distributed Algoroithms for Pattern Matching in Big Graphs*
+    *Thesis title: Parallel and Distributed Algorithms for Pattern Matching in Big Graphs*
 
 2016-2017
 :   **Masters degree, Computer Science & IT Systems**; Ecole Supérieure d'Informatique (Algiers)
