@@ -1,7 +1,9 @@
 theme: jekyll-theme-cayman
 title: "Sarra BOUHENNI"
+subtitle: "PhD candidate @ Université of Claude Bernard, Lyon"
+name: "Sarra BOUHENNI"
 email: "sarra.bouhenni@liris.cnrs.fr"
 address: "Villeurbanne, France"
-description: "I am currently a PhD candidate interested in Distributed Graph Algorithms and Big Data."
+description: "My research interests include Distributed Graph Algorithms and Big Data."
 github:
   is_project_page: false
