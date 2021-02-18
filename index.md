@@ -26,12 +26,12 @@
 ## Experience
 
 January 2018 -- present
-:  **PhD Candidate** -- CERIST Research Center (Algiers) and LIRIS CNRS (Lyon)
+:  **PhD Candidate @ CERIST Research Center (Algiers) and LIRIS CNRS (Lyon)**
 
    I work in my PhD on the problem of Graph Pattern Matching (GPM) in the context of large-scale distributed graphs. Our goal is proposing new parallel and distributed algorithms to answer GPM queries in big graphs while taking into consideration the shortcomings of prior work in this field. 
 
 June 2019 and January 2021
-:  **Graduate Teaching Assistant** -- CERIST Research Center (Algiers)
+:  **Graduate Teaching Assistant @ CERIST Research Center (Algiers)**
 
    I teach the course *Programming languages for Big Data - Scala* in the specialized post-graduation training (PGS). I am in charge of preparing the course materials and practical sessions in addition to exam preparation. The course covers:
 
@@ -41,7 +41,7 @@ June 2019 and January 2021
    * Collections in Scala, Lists, Vectors, Sets and Maps.
 
 August 2017 - December 2017
-:  **Data Science Consultant** -- Ya Technologies (Algiers)
+:  **Data Science Consultant @ Ya Technologies (Algiers)**
 
    Worked on improving the logging system of the VTC application Yassir. My responsitibilies included mainly: 
    * Extracting log events available at a Kafka server using a logger implemented within NodeJs. 
@@ -50,7 +50,7 @@ August 2017 - December 2017
    * I was also responsible on deploying and managing the Elasticsearch distributed system on Kubernetes.
 
 September 2016 to June 2017
-:  **Data Science and Web Development Intern** -- AITECH (Algiers)
+:  **Data Science and Web Development Intern @ AITECH (Algiers)**
 
    In my final year's engineering project, I worked on the design and development of a monitoring system for predicting plant diseases in Algeria, using Incremental Machine  Learning algorithms. My responsibilities in this project included: 
    * Collecting data on plant disease prediction for the two diseases: Fusarium Head Blight and Potato Mildiew.
@@ -59,7 +59,7 @@ September 2016 to June 2017
    * Implementing a web application for monitoring and visualization of disease spread in Algerian crop fields, using Angular. 
 
 September 2015 - October 2015
-:  **Web Development Intern** -- Carthena Tech (Algiers)
+:  **Web Development Intern @ Carthena Tech (Algiers)**
 
    In this internship, I worked on the development of an e-learning platform for teaching matchematics to high school students of Algeria. My responsibilities included:
    * The design and developement of the platform ui on top of Jomla.
