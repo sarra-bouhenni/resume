@@ -16,7 +16,7 @@
 2009-2012
 :   **Baccalaureate, Mathematics**; Omar Ibn El Khattab High School (Relizane)
 
-## Trainings
+## Trainings & Certifications
 
 **Functional Programming in Scala Specialization**; by Coursera [(About the course)](https://www.coursera.org/account/accomplishments/specialization/J5NVMSFADNYF)
 
