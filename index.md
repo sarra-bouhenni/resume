@@ -18,7 +18,7 @@
 
 ## Trainings & Certifications
 
-**Functional Programming in Scala Specialization**; by Coursera [[About thi course]](https://www.coursera.org/account/accomplishments/specialization/J5NVMSFADNYF)
+**Functional Programming in Scala Specialization**; by Coursera [[About this course]](https://www.coursera.org/account/accomplishments/specialization/J5NVMSFADNYF)
 
 **Big Data Foundations - Level 2**; by IBM [[About this course]](https://www.youracclaim.com/badges/5e7d8d0b-f80e-4e70-a236-6d6e6f645023)
 
