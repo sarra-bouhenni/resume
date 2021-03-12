@@ -47,8 +47,8 @@ June 2019 -- present
 I also teach the introductory course *Frameworks for big graphs - GraphX* where the following points are covered:
    
    * Basic operators for graph loading using GraphX.
-   * Graph transformations and information aggregationusing the graph-parallel paradigm of GraphX.
-   * Design and implementation of iterative algorithms following the Pregel model on GraphX. 
+   * Graph transformations and information aggregation with the graph-parallel paradigm of GraphX.
+   * Design and implementation of iterative algorithms based on the Pregel model on top of GraphX. 
 
 August 2017 - December 2017
 :  **Data Science Consultant @ Ya Technologies (Algiers)**
