@@ -10,21 +10,17 @@
 2016-2017
 :   **Masters degree, Computer Science**; Ecole Supérieure d'Informatique (Algiers)
 
-    *Specialization:  IT Systems*
-
 2012-2017
 :   **Engineering degree, Computer Science**; Ecole Supérieure d'Informatique (Algiers)
-
-    *Specialization:  IT Systems*
 
 2009-2012
 :   **Baccalaureate, Mathematics**; Omar Ibn El Khattab High School (Relizane)
 
 ## Trainings & Certifications
 
-**Functional Programming in Scala Specialization**; by Coursera [(About the course)](https://www.coursera.org/account/accomplishments/specialization/J5NVMSFADNYF)
+**Functional Programming in Scala Specialization**; by Coursera [[About thi course]](https://www.coursera.org/account/accomplishments/specialization/J5NVMSFADNYF)
 
-**Big Data Foundations - Level 2**; by IBM [(About the course)](https://www.youracclaim.com/badges/5e7d8d0b-f80e-4e70-a236-6d6e6f645023)
+**Big Data Foundations - Level 2**; by IBM [[About this course]](https://www.youracclaim.com/badges/5e7d8d0b-f80e-4e70-a236-6d6e6f645023)
 
 
 ## Experience
