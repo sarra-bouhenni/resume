@@ -40,7 +40,7 @@ June 2019 -- present
    * Functional programming with Scala, including higher order functions, lambda expressions, partial evaluation, etc.
    * Collections in Scala, Lists, Vectors, Sets and Maps.
 
-I also teach the introductory course *Frameworks for big graphs - GraphX* where the following points are covered:
+   I also teach the introductory course *Frameworks for big graphs - GraphX* where the following points are covered:
    
    * Basic operators for graph loading using GraphX.
    * Graph transformations and information aggregation with the graph-parallel paradigm of GraphX.
