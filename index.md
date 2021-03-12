@@ -5,7 +5,7 @@
 2018-2021 (expected)
 :   **PhD, Computer Science**; Ecole Supérieure d'Informique (Algiers) and Université Claude Bernard (Lyon)
 
-    *Thesis title: Parallel and Distributed Algorithms for Pattern Matching in Big Graphs*
+    *Thesis title: Parallel and Distributed Algorithms for Pattern Matching in Big Graphs --* [Publications](https://sarra-bouhenni.github.io/resume/publications)
 
 2016-2017
 :   **Masters degree, Computer Science & IT Systems**; Ecole Supérieure d'Informatique (Algiers)
@@ -30,15 +30,21 @@ January 2018 -- present
 
    I work in my PhD on the problem of Graph Pattern Matching (GPM) in the context of large-scale distributed graphs. Our goal is proposing new parallel and distributed algorithms to answer GPM queries in big graphs while taking into consideration the shortcomings of prior work in this field. 
 
-June 2019 and January 2021
+June 2019 -- present
 :  **Graduate Teaching Assistant @ CERIST Research Center (Algiers)**
 
-   I teach the course *Programming languages for Big Data - Scala* in the specialized post-graduation training (PGS). I am in charge of preparing the course materials and practical sessions in addition to exam preparation. The course covers:
+   I teach the course *Programming languages for Big Data - Scala* in the specialized post-graduation training (PGS). The course covers:
 
    * Basic syntax of Scala programming language.
    * Object Oriented Programming in Scala.
    * Functional programming with Scala, including higher order functions, lambda expressions, partial evaluation, etc.
    * Collections in Scala, Lists, Vectors, Sets and Maps.
+
+I also teach the introductory course *Frameworks for big graphs - GraphX* where the following points are covered:
+   
+   * Basic operators for graph loading using GraphX.
+   * Graph transformations and information aggregationusing the graph-parallel paradigm of GraphX.
+   * Design and implementation of iterative algorithms following the Pregel model on GraphX. 
 
 August 2017 - December 2017
 :  **Data Science Consultant @ Ya Technologies (Algiers)**
