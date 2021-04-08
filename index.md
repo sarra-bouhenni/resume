@@ -68,7 +68,7 @@ September 2015 - October 2015
 
    In this internship, I worked on the development of an e-learning platform for teaching matchematics to high school students in Algeria. My responsibilities included:
    * The design and developement of the platform UI on top of Jomla.
-   * Preparation and integration of the different math quizzes to the platform.
+   * Preparation and integration of the different math quizzes in the platform.
 
 ## Technical Experience
 
