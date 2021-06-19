@@ -1,5 +1,3 @@
-# Resume
-
 ## Education
 
 2018-2021 (expected)
