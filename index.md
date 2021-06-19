@@ -3,7 +3,7 @@
 2018-2021 (expected)
 :   **PhD, Computer Science**; Ecole Supérieure d'Informique of Algiers and Université Claude Bernard - Lyon 1
 
-    *Thesis title:* Parallel and Distributed Algorithms for Pattern Matching in Big Graphs* [[Publications]](https://sarra-bouhenni.github.io/resume/publications)
+    ++Thesis title:++ *Parallel and Distributed Algorithms for Pattern Matching in Big Graphs* [[Publications]](https://sarra-bouhenni.github.io/resume/publications)
 
 2016-2017
 :   **Masters degree, Computer Science**; Ecole Supérieure d'Informatique (Algiers)
